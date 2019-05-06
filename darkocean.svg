@@ -1,0 +1,15 @@
+<!-- Author: Saoskia@Github -->
+<svg width="96px" height="64px" xmlns="http://www.w3.org/2000/svg" baseProfile="full" version="1.1">
+  <!-- Window Background -->
+  <rect width='96' height='64'  id='background' fill='#282C34'></rect>  <!-- Background -->
+  <!-- Foreground -->
+  <circle cx='24' cy='24' r='8' id='f_high' fill='#B8B8B8'></circle>    <!-- Main text -->
+  <circle cx='40' cy='24' r='8' id='f_med' fill='#5295B7'></circle>     <!-- Sidebar links -->
+  <circle cx='56' cy='24' r='8' id='f_low' fill='#5295B7'></circle>        <!-- Footer text -->
+  <circle cx='72' cy='24' r='8' id='f_inv' fill='#282C34'></circle>
+  <!-- Background -->
+  <circle cx='24' cy='40' r='8' id='b_high' fill='#EEEEEE'></circle>
+  <circle cx='40' cy='40' r='8' id='b_med' fill='#282C34'></circle>
+  <circle cx='56' cy='40' r='8' id='b_low' fill='#898D97'></circle>     <!-- Text selection background -->
+  <circle cx='72' cy='40' r='8' id='b_inv' fill='#7ABDDF'></circle>
+</svg>
